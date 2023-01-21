@@ -5,6 +5,4 @@
        let show = document.querySelector("p").innerText = `${resutl} %`;
    }
 
-   function clear() {
-
-   }
+ 
